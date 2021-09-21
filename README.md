@@ -1,0 +1,2 @@
+# AwsDotnetcoretest
+AwsDotnetcoretest
